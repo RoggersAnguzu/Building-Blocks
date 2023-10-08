@@ -1,14 +1,13 @@
 # Building-Blocks
 This Ellaborates how the various Gates are used to to come up with the various Systems in terms of Signal transmissions and input
 It has both the Software and Hardware versions. The software versions are the ones in the Above Links and saved in the respective INO formats.
-# Below elaborates the harware versions.
+# Below elaborates the hardware versions.
 a) The NAND GATE
 ![image](https://github.com/RoggersAnguzu/Building-Blocks/assets/141458053/c0b924f8-9cb0-4497-830a-e17c4c4bfa00)
 b) OR GATE
 ![image](https://github.com/RoggersAnguzu/Building-Blocks/assets/141458053/79f69422-b345-4448-aceb-22b99690f9c1)
 c) AND GATE
 ![image](https://github.com/RoggersAnguzu/Building-Blocks/assets/141458053/6ec15c19-b277-44f2-921d-0d508118e795)
-# Below Shows more Details
 # Logic Gates Simulation
 
 This repository contains Arduino code for simulating NAND, AND, and OR gates using Tinkercad. These simple digital logic gates are fundamental building blocks of digital circuits and are widely used in various electronic applications.
