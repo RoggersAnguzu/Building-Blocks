@@ -4,8 +4,6 @@ It has both the Software and Hardware versions. The software versions are the on
 # Below elaborates the hardware versions.
 a) The NAND GATE
 ![image](https://github.com/RoggersAnguzu/Building-Blocks/assets/141458053/c0b924f8-9cb0-4497-830a-e17c4c4bfa00)
-b) OR GATE
-![image](https://github.com/RoggersAnguzu/Building-Blocks/assets/141458053/79f69422-b345-4448-aceb-22b99690f9c1)
 c) AND GATE
 ![image](https://github.com/RoggersAnguzu/Building-Blocks/assets/141458053/6ec15c19-b277-44f2-921d-0d508118e795)
 # Logic Gates Simulation
